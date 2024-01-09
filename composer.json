@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": "7.4.*",
+        "google/apiclient": "^2.0",
+        "google/cloud-bigquery": "^1.23"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
